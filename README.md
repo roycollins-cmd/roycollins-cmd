@@ -29,4 +29,4 @@ SQL, Python, PostgreSQL, ETL / ELT, Aure, Data Modelling.
 # My Goal 
 To build reliable data infrastructure that powers analytics, machine learning and AI applications. 
 
-I'm interested in data engineering, data analysis, AI infrastructure and building practical systems that turn data into value.
+### I'm interested in data engineering, data analysis, AI infrastructure and building practical systems that turn data into value.
