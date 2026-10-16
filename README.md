@@ -17,10 +17,7 @@ I'm building my skills in data engineering, with a focus on transforming raw dat
 4. Creating projects that demonstrate real world problem solving
 
 # Featured Projects:  
-My portfolio is growing. Projects will be added as I build and document them. 
-1. Retail Sales Data Pipeline - Python, PostgreSQL, and SQL analytics
-2. Data Cleaning & Automation - Python and Pandas
-3. Cloud ETL pipelines - Azure data services 
+coming soon
 
 
 # Current Learning Path 
